@@ -2,7 +2,7 @@
 
 
 
-| Файл| Комментарии                                    |
-| [presentation.pdf](presentation.pfd)                       | Презентация проекта.                      |
-| [posters.pdf](posters.pdf) | Постер проекта. |
-
+Файл  | Комментарии
+------------- | -------------
+ presentation.pdf  | Презентация проекта
+poster.pdf  |  Постер проекта
