@@ -4,5 +4,5 @@
 
 Файл  | Комментарии
 ------------- | -------------
- presentation.pdf  | Презентация проекта
-poster.pdf  |  Постер проекта
+[presentation.pdf](presentation.pdf)  | Презентация проекта
+[poster.pdf](poster.pdf)  |  Постер проекта
